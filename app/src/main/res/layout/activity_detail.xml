@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="songklodb.apptemples.Detail"
+    android:background="@drawable/background">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button" />
+
+    <string-array name="title">
+
+        <item>หัวข้อที่ 1</item>
+        <item>หัวข้อที่ 2</item>
+        <item>หัวข้อที่ 3</item>
+        <item>หัวข้อที่ 4</item>
+        <item>หัวข้อที่ 5</item>
+        <item>หัวข้อที่ 6</item>
+        <item>หัวข้อที่ 7</item>
+        <item>หัวข้อที่ 8</item>
+        <item>หัวข้อที่ 9</item>
+        <item>หัวข้อที่ 10</item>
+        <item>หัวข้อที่ 11</item>
+        <item>หัวข้อที่ 12</item>
+        <item>หัวข้อที่ 13</item>
+        <item>หัวข้อที่ 14</item>
+        <item>หัวข้อที่ 15</item>
+        <item>หัวข้อที่ 16</item>
+        <item>หัวข้อที่ 17</item>
+        <item>หัวข้อที่ 18</item>
+        <item>หัวข้อที่ 19</item>
+        <item>หัวข้อที่ 20</item>
+
+    </string-array>
+
+
+    <string-array name="detial">
+
+        <item>รายละเอียดที่ 1</item>
+        <item>รายละเอียดที่ 2</item>
+        <item>รายละเอียดที่ 3</item>
+        <item>รายละเอียดที่ 4</item>
+        <item>รายละเอียดที่ 5</item>
+        <item>รายละเอียดที่ 6</item>
+        <item>รายละเอียดที่ 7</item>
+        <item>รายละเอียดที่ 8</item>
+        <item>รายละเอียดที่ 9</item>
+        <item>รายละเอียดที่ 10</item>
+        <item>รายละเอียดที่ 11</item>
+        <item>รายละเอียดที่ 12</item>
+        <item>รายละเอียดที่ 13</item>
+        <item>รายละเอียดที่ 14</item>
+        <item>รายละเอียดที่ 15</item>
+        <item>รายละเอียดที่ 16</item>
+        <item>รายละเอียดที่ 17</item>
+        <item>รายละเอียดที่ 18</item>
+        <item>รายละเอียดที่ 19</item>
+        <item>รายละเอียดที่ 20</item>
+
+    </string-array>
+
+
+</RelativeLayout>
