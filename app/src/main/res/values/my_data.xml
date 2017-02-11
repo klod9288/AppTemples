@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_name">
+
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+        <item>ศาลาที่ 1</item>
+
+
+    </string-array>
+    <string-array name="my_drtail">
+
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+        <item>รายละเอียด</item>
+
+    </string-array>
+
+</resources>

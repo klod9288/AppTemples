@@ -44,5 +44,26 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //Create lisview
+        //1.setup array type simple
+        int[] iconInts = new int[]{
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background, R.drawable.background,
+                R.drawable.background,R.drawable.background, };
+
+        //2.By xml
+        String[] nameStrings = getResources().getStringArray(R.array.my_name);
+        String[] detailStrings = getResources().getStringArray(R.array.my_drtail);
+
+
+
+
     }
-}
+}//Main Class
